@@ -2,7 +2,7 @@
 
 This repo contains exercises, notes, and links to resources for the "Reactivity with SolidJS" Frontend Masters course.
 
-You can view the deployed site [here]().
+You can view the deployed site [here](https://reactivity-with-solidjs.netlify.app).
 
 
 ## Running the project

@@ -90,7 +90,7 @@ function Header() {
       <div class="flex justify-between w-full">
         <div class="flex space-x-3">
           <div class="text-xl mt-2 uppercase hidden md:block">
-            <span class="font-semibold ml-1 text-solid-medium">Reactivity with Solid</span>
+            <span class="font-semibold ml-1 text-solid-medium">Reactivity with SolidJS</span>
           </div>
         </div>
         <div class="flex space-x-5">

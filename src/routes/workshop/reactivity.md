@@ -24,7 +24,11 @@ Once this is understood we will try our hand at building a simple reactive syste
 [Slides](https://docs.google.com/presentation/d/1KisKFrvok64_hN7uyBmFPi8Roj220SZ23Rp2Oe2f1AY/edit?usp=sharing)
 
 [Example1](https://codesandbox.io/s/reaction-5wyzu)
+
 [Example2](https://codesandbox.io/s/no-derivation-qq54h)
+
 [Example3](https://codesandbox.io/s/derivation-j0nzm)
+
 [Example4](https://codesandbox.io/s/conditional-dependency-hbjg6)
+
 [Example5](https://codesandbox.io/s/glitch-free-1e6dc)

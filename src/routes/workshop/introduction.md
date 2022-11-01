@@ -30,3 +30,5 @@ That is because SolidJS has a unique take on frontend frameworks in that every p
 The first set of slides that introduce SolidJS can be found here:
 
 [Introducing SolidJS](https://docs.google.com/presentation/d/1w2jcpOn9WvfW3S0zZyZ8mM5AGbFzFjN_YgFtrmOua24/edit?usp=sharing)
+
+And the Github: [https://github.com/ryansolid/solid-course](https://github.com/ryansolid/solid-course)

@@ -16,4 +16,4 @@ npm run dev
 npm run dev -- --open
 ```
 
-You can run examples by navigating into the related folder in the examples folder and running the same commands again.
+You can run examples by navigating into the related folder in the resources folder and running the same commands again.

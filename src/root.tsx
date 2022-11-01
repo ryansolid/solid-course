@@ -255,26 +255,25 @@ export default function Root() {
       <Title>SolidStart (Beta)</Title>
       <Head>
         <Meta charset="utf-8" />
-        <Meta property="og:title" content="SolidStart Beta Documentation" />
-        <Meta property="og:site_name" content="SolidStart Beta Docuentation" />
-        <Meta property="og:url" content="https://start.solidjs.com" />
+        <Meta property="og:title" content="Reactivity with SolidJS" />
+        <Meta property="og:site_name" content="Reactivity with SolidJS" />
+        <Meta property="og:url" content="https://www.solidjs.com" />
         <Meta
           property="og:description"
-          content="Early release documentation and resources for SolidStart Beta"
+          content="Resources for 'Reactivity with SolidJS' for Frontend Masters Course"
         />
         <Meta property="og:type" content="website" />
-        <Meta property="og:image" content="https://start.solidjs.com/og-share.png" />
+        <Meta property="og:image" content="https://www.solidjs.com/og-share.png" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <Meta
           name="description"
           property="og:description"
-          content="Early release documentation and resources for SolidStart Beta"
+          content="Resources for 'Reactivity with SolidJS' for Frontend Masters Course"
         />
-        <Meta name="author" content="@solid_js" />
+        <Meta name="author" content="@RyanCarniato" />
 
         <Link rel="icon" href="/favicon.ico" />
-        <Stylesheet href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
       </Head>
 
       <Body class="h-full grid grid-cols-[auto,1fr,auto] grid-rows-[auto,1fr]">

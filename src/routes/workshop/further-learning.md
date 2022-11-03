@@ -20,3 +20,7 @@ Congratulations! You have made it to the end. But as developers our learning nev
 [Solid Ecosystem](https://www.solidjs.com/ecosystem)
 
 [Solid Articles](https://www.solidjs.com/resources)
+
+[My Streams](https://youtube.com/@ryansolid)
+
+[My Articles](https://dev.to/ryansolid)

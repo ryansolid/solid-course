@@ -30,7 +30,7 @@ CLI:
 
 ## Resources
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1iMbG8GRyIiXLyGvjxdKP1sjll1YznpfkVmcaBb4fdU4/edit?usp=sharing)
 
 [Async Tutorial](https://www.solidjs.com/tutorial/async_lazy)
 

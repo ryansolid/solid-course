@@ -15,5 +15,3 @@ npm run dev
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
-
-You can run examples by navigating into the related folder in the resources folder and running the same commands again.

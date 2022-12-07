@@ -5,7 +5,7 @@ order: 6
 active: true
 ---
 
-# ToDo App Code Checkpoints
+# Todo App Code Checkpoints
 
 Below are checkpoints for the application build in the Frontend Masters's [Reactivity with SolidJS course](https://frontendmasters.com/courses/reactivity-solidjs/). The checkpoints line up with the lesson names in the course. For example, if you are stuck in the `Modifying Todos` lesson, you can find the completed code in the cooresponding checkpoint below.
 

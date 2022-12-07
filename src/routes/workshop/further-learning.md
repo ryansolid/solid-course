@@ -1,7 +1,7 @@
 ---
-title: 8. Further Learning
+title: 9. Further Learning
 section: workshop
-order: 8
+order: 9
 active: true
 ---
 

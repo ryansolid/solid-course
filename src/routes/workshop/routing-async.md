@@ -1,7 +1,7 @@
 ---
-title: 7. Routing and Async
+title: 8. Routing and Async
 section: workshop
-order: 7
+order: 8
 active: true
 ---
 

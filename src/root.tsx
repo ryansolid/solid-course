@@ -95,6 +95,22 @@ function Header() {
         </div>
         <div class="flex space-x-5">
           <div class="flex items-center">
+            <a href="https://frontendmasters.com/courses/reactivity-solidjs" target="_blank" class="text-white mx-2 rounded p-2 colo flex items-center space-x-5" style="background-color: rgb(68, 107, 158);">
+              Frontend Masters Course
+              <svg
+                class="h-5 z-50 -mt-1 ltr:ml-1 rtl:mr-1 opacity-30 ml-2"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                />
+              </svg>
+            </a>
             <a href="https://www.solidjs.com" target="_blank" class="flex items-center space-x-5">
               solidjs.com
               <svg

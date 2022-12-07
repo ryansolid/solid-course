@@ -1,7 +1,7 @@
 ---
-title: 6. Stores & Context
+title: 7. Stores & Context
 section: workshop
-order: 6
+order: 7
 active: true
 ---
 
